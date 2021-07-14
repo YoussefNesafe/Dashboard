@@ -1,9 +1,10 @@
 # vue-dashboard
 
-## Simple App
+## Description
 ```
 This is my first app in vuejs
-I create simple dashboard contain 3 simple pages , some cards and popup.
+I created a simple dashboard contain 3 simple pages , some cards and a popup.
+```
 
 ## Project setup
 ```
