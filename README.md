@@ -1,5 +1,10 @@
 # vue-dashboard
 
+## Simple App
+```
+This is my first app in vuejs
+I create simple dashboard contain 3 simple pages , some cards and popup.
+
 ## Project setup
 ```
 npm install
@@ -25,5 +30,3 @@ npm run test:unit
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
